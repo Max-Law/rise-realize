@@ -1,6 +1,11 @@
 {
-  "name": "rise-realize",
-  "version": "0.1.0",
+  "name": "<%= name %>",
+  "description": "<%= description %>",
+  "author": "<%= author %>",
+  "keywords": [
+    "<%= keywords %>"
+  ],
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
